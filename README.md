@@ -71,11 +71,11 @@ npm run dist
 ## Автор
 
 **mlab**  
-GitHub: [ваш-профиль](https://github.com/ваш-профиль)
+GitHub: [https://github.com/mer-mlab/](https://github.com/mer-mlab/)
 
 ## Ссылки
 
-- **Репозиторий на GitHub**: [https://github.com/ваш-репозиторий/joplin-plugin-move-note](https://github.com/ваш-репозиторий/joplin-plugin-move-note)
+- **Репозиторий на GitHub**: [https://github.com/mer-mlab/joplin-plugin-mlab-move-note/](https://github.com/mer-mlab/joplin-plugin-mlab-move-note/)
 - **Страница плагина в репозитории Joplin** (после публикации): будет добавлена позже.
 
 ## Лицензия
