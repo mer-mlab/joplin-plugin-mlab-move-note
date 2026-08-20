@@ -82,4 +82,4 @@ GitHub: [https://github.com/mer-mlab/](https://github.com/mer-mlab/)
 
 MIT © 2026 mlab
 
-*Если у вас возникли вопросы или предложения, создайте [Issue](https://github.com/ваш-репозиторий/joplin-plugin-move-note/issues) на GitHub.*
+*Если у вас возникли вопросы или предложения, создайте [Issue](https://github.com/mer-mlab/joplin-plugin-mlab-move-note/issues) на GitHub.*
